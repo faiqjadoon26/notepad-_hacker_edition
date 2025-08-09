@@ -1,4 +1,5 @@
  Notepad Hacker Edition
+ 
 Notepad Hacker Edition is a lightweight, hacker-themed text editor built with Python and Tkinter. It combines simplicity with a cyberpunk-inspired UI, giving you a fast and stylish way to write notes or code.
 
 ✨ Features
